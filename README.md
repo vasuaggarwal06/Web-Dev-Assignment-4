@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Secure Connect and Communication Platform (Lab 4, Web Dev III)
 
 Node.js + Express backend with JWT auth, bcrypt password hashing, RBAC, a protected Notes API,
@@ -85,3 +86,6 @@ Normal users receive `403 Forbidden` on `/api/admin/*`. Roles are never read fro
 - JWT expiry (default 1h), httpOnly + sameSite cookie
 - Generic login error message to avoid user enumeration
 - Notes are filtered by `owner`, so users cannot read or edit each other's notes
+=======
+# Web-Dev-Assignment-4
+>>>>>>> 03b9b6c181cb810783df4b822b19b71467ddccef
